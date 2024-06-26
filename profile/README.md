@@ -5,6 +5,7 @@
 🕸️ Our social media links are below:
 
 - 💬 [Discord](https://discord.gg/nXBsu98y)
+- 💊 [Twitter/X](https://x.com/depra_media)
 - 👩‍💻 [VK](https://vk.com/deprainc)
 - 🍿 [YouTube](https://www.youtube.com/channel/UCC3Rek2fu6GR6bePOytcaaQ)
 
