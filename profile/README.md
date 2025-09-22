@@ -1,6 +1,7 @@
 ## Depra
 
-Indie devs crafting fps games 🎮
+Indie devs crafting fps games. 
+
 Currently developing: [BLEEDING](https://store.steampowered.com/app/3844800/Bleeding/?utm_source=smm&utm_campaign=github&utm_medium=info&utm_content=22092025) 🩸
 
 ### Hi stranger 👋
